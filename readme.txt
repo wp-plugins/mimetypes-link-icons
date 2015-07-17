@@ -322,6 +322,9 @@ var $debug = false;
 
 == Changelog ==
 
+= 3.2.3 =
+* Minor tweak
+
 = 3.2.2 =
 * Added the priority of 15 to pause_mtli() and unpause_mtli() functions, to match the initial add_filter setup
 * Renamed folder after typo
@@ -536,7 +539,10 @@ Fixed an IE8 bug found by @quartney
 
 == Upgrade Notice ==
 
-= 3.2.1 =
+= 3.2.3 =
+* Minor tweak
+
+= 3.2.2 =
 Minor fix
 
 = 3.2.1 =
